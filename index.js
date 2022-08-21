@@ -29,7 +29,6 @@ const {
         versionInput
       });
 
-      console.log(`Job ${res.statusText}`);
       console.log(`Build Number ${res.data.build_num}`);
       console.log(`Build URL ${res.data.build_url}`);
       console.log(`Version ${versionInput}`);
