@@ -15,14 +15,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zivkaziv/circleci-trigger-github-action.git"
+    "url": "git+https://github.com/GoStraight-Tech/circleci-trigger-github-action-forked"
   },
   "author": "Ziv Kalderon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zivkaziv/circleci-trigger-github-action/issues"
+    "url": "https://github.com/GoStraight-Tech/circleci-trigger-github-action-forked/issues"
   },
-  "homepage": "https://github.com/zivkaziv/circleci-trigger-github-action#readme",
+  "homepage": "https://github.com/GoStraight-Tech/circleci-trigger-github-action-forked#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "axios": "^0.21.1",
