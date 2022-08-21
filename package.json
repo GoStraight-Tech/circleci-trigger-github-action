@@ -1,6 +1,6 @@
 {
   "name": "circleci-trigger-github-action",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "github action that triggers circle-ci job",
   "main": "main.js",
   "scripts": {
