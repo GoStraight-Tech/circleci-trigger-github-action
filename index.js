@@ -32,6 +32,7 @@ const {
       console.log(`Job ${res.statusText}`);
       console.log(`Build Number ${res.data.build_num}`);
       console.log(`Build URL ${res.data.build_url}`);
+      console.log(`Version ${versionInput}`);
 
     } catch (error) {
       if(error.response.data && error.response.data.message){
