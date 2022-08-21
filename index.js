@@ -46,7 +46,7 @@ const {
     return await axios.post(`https://circleci.com/api/v1.1/project/github/${repoName}/tree/${branchName}`,{
         build_parameters:{
             CIRCLE_JOB : 'build',
-            'version': version
+            'version': `${version}`
         }},{
           headers: {
               'Content-Type': 'application/json',
